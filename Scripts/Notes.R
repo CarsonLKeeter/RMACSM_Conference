@@ -1,0 +1,3 @@
+#Notes
+#1) Largest mean daily change score compared to largest mean change score of restriction week. Set value = mean largest change during baseline. Compare change score between baseline and restriction. Mean change score = mean restriction (avg 3-7) - mean baseline (avg 8-10). 
+#2) Is the change observed differently from the average daily fluctuation? Average daily difference between consecutive for all subjects. That is set value. Compare change score between baseline and fluid restriction. 
